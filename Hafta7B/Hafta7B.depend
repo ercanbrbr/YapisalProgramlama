@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557043459 source:c:\users\asus\desktop\c\hafta7b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
